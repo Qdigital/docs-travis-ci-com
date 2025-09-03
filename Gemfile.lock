@@ -267,7 +267,7 @@ DEPENDENCIES
   rack-ssl-enforcer
   rake
   rdiscount (>= 2.2.0.1)
-  redcarpet
+  redcarpet (>= 3.5.1)
   rubocop
   ruby18_source_location
   therubyracer
